@@ -1,0 +1,1 @@
+web: gunicorn boxcrik.wsgi --log-file -
